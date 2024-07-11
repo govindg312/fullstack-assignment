@@ -6,7 +6,7 @@ The application has be to built entirely in TypeScript for the UI and backend. U
 
 ### UI
 1. UI has to be built with React. 
-2. Component library of your choice. We prefer 
+2. Component library of your choice.
 3. Provide a list of all 3rd party libraries used with its justification for them.
 
 ### Backend
